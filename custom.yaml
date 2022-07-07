@@ -104,3 +104,4 @@ payload:
   - DOMAIN-SUFFIX,aslain.harmless.hu
   - DOMAIN-SUFFIX,aslain.legionriders.club
   - DOMAIN-SUFFIX,modp.wgcdn.co
+  - IP-CIDR,101.32.118.0/23
