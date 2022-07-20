@@ -105,3 +105,5 @@ payload:
   - DOMAIN-SUFFIX,aslain.legionriders.club
   - DOMAIN-SUFFIX,modp.wgcdn.co
   - IP-CIDR,101.32.118.0/23
+  - DOMAIN-SUFFIX,qoo-static.com
+  - DOMAIN-SUFFIX,qoo-img.com
