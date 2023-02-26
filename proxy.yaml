@@ -8436,7 +8436,7 @@ payload:
   - '+.discord.new'
   - '+.discord.store'
   - '+.discord.tools'
-  - 'gateway.discord.gg'
+  - '+.discord.gg'
   - '+.discordactivities.com'
   - '+.discordapp.com'
   - '+.discordapp.io'
