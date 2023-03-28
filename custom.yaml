@@ -128,3 +128,4 @@ payload:
   - DOMAIN-SUFFIX,stryder-it.de
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN,navbar.blizzard.com
+  - DOMAIN-SUFFIX,nexon.io
