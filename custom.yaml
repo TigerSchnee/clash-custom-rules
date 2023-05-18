@@ -129,3 +129,6 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN,navbar.blizzard.com
   - DOMAIN-SUFFIX,nexon.io
+  - DOMAIN-SUFFIX,overwolf.com
+  - DOMAIN-KEYWORD,overwolf
+  - DOMAIN-SUFFIX,tracker.gg
