@@ -137,3 +137,7 @@ payload:
   - DOMAIN-SUFFIX,blue-protocol.cn
   - DOMAIN-SUFFIX,szcll.com
   - DOMAIN-SUFFIX,wargaming.net
+  - DOMAIN-SUFFIX,wgcdn.co
+  - DOMAIN-SUFFIX,gcdn.co
+  - DOMAIN-SUFFIX,worldofwarships.com
+  - DOMAIN-SUFFIX,worldoftanks.com
