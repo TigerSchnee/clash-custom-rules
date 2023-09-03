@@ -136,5 +136,4 @@ payload:
   - DOMAIN-SUFFIX,prydwen.gg
   - DOMAIN-SUFFIX,blue-protocol.cn
   - DOMAIN-SUFFIX,szcll.com
-  - DOMAIN,dl-wows-cdx.wargaming.net
-  - DOMAIN,dl-wows-gc.wargaming.net
+  - DOMAIN-SUFFIX,wargaming.net
