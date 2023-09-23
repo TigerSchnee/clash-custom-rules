@@ -142,3 +142,6 @@ payload:
   - DOMAIN-SUFFIX,worldofwarships.com
   - DOMAIN-SUFFIX,worldoftanks.com
   - DOMAIN-SUFFIX,nexus-cdn.com
+  - DOMAIN-SUFFIX,xboxservices.com
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,gamepass.com
