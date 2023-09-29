@@ -153,3 +153,4 @@ payload:
   - DOMAIN-SUFFIX,notifications.cdn.ubisoft.com
   - DOMAIN-SUFFIX,challenges.cdn.ubisoft.com
   - DOMAIN-SUFFIX,bingapis.com
+  - DOMAIN-SUFFIX,mp.microsoft.com
