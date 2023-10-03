@@ -156,3 +156,4 @@ payload:
   - DOMAIN,mp.microsoft.com
   - DOMAIN,oneclient.sfx.ms
   - DOMAIN,self.events.data.microsoft.com
+  - DOMAIN-SUFFIX,gnome-look.org
