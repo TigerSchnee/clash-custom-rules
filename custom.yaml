@@ -159,3 +159,4 @@ payload:
   - DOMAIN-SUFFIX,gnome-look.org
   - DOMAIN-SUFFIX,flathub.org
   - DOMAIN,cdn.fwupd.org
+  - DOMAIN-SUFFIX,spacedesk.net
