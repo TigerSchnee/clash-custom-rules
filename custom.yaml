@@ -160,3 +160,6 @@ payload:
   - DOMAIN-SUFFIX,flathub.org
   - DOMAIN,cdn.fwupd.org
   - DOMAIN-SUFFIX,spacedesk.net
+  - DOMAIN,na.fleetlogd.com
+  - DOMAIN,aws-na.intlgame.com
+  - DOMAIN,www.jupiterlauncher.com
