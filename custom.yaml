@@ -149,9 +149,7 @@ payload:
   - DOMAIN-SUFFIX,nikke.gg
   - DOMAIN-SUFFIX,game-hub.tobii.com
   - DOMAIN-SUFFIX,static8.ubi.com
-  - DOMAIN-SUFFIX,overlay.cdn.ubisoft.com
-  - DOMAIN-SUFFIX,notifications.cdn.ubisoft.com
-  - DOMAIN-SUFFIX,challenges.cdn.ubisoft.com
+  - DOMAIN-SUFFIX,cdn.ubisoft.com
   - DOMAIN-SUFFIX,bingapis.com
   - DOMAIN,mp.microsoft.com
   - DOMAIN,oneclient.sfx.ms
