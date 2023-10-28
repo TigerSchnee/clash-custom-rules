@@ -12,7 +12,6 @@ payload:
   - DOMAIN-SUFFIX,v2rayssr.com
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,steamcommunity.com
-  - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,apkmirror.com
   - DOMAIN-SUFFIX,taptap.io
   - DOMAIN-SUFFIX,taplb.com
