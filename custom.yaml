@@ -169,3 +169,4 @@ payload:
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,laramusic.tk
   - DOMAIN-SUFFIX,steamos.cloud
+  - DOMAIN-SUFFIX,ip2cidr.com
