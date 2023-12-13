@@ -179,3 +179,5 @@ payload:
   - DOMAIN-SUFFIX,forum.gamer.com.tw
   - IP-CIDR,216.24.185.0/24
   - DOMAIN-SUFFIX,upc.ubisoft.com
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,githubusercontent.com
