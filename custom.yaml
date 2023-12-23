@@ -182,3 +182,4 @@ payload:
   - DOMAIN-SUFFIX,github.io
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,battle.net
+  - DOMAIN-SUFFIX,cdn.blz-contentstack.com
