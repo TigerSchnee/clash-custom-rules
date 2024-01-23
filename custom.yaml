@@ -191,3 +191,5 @@ payload:
   - DOMAIN-SUFFIX,spoti.fi
   - DOMAIN-SUFFIX,spotify.com
   - DOMAIN-SUFFIX,spotifycdn.net
+#
+  - DOMAIN-SUFFIX,tiktok.com
