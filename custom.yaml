@@ -195,5 +195,6 @@ payload:
   - DOMAIN-SUFFIX,tiktok.com
   - DOMAIN-SUFFIX,bdsmstreak.com
   - DOMAIN-KEYWORD,hcspublicfiles
-  - DOMAIN-KEYWORD,mmoui.com
-  - DOMAIN-KEYWORD,paradox-interactive.com
+  - DOMAIN-SUFFIX,mmoui.com
+  - DOMAIN-SUFFIX,paradox-interactive.com
+  - DOMAIN-SUFFIX,fandom.com
