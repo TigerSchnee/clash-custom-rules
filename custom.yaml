@@ -199,3 +199,4 @@ payload:
   - DOMAIN-SUFFIX,paradox-interactive.com
   - DOMAIN-SUFFIX,fandom.com
   - DOMAIN-SUFFIX,voidtools.com #Everything
+  - DOMAIN-SUFFIX,simulmedia-apis.com #Smite Ads
