@@ -202,3 +202,4 @@ payload:
   - DOMAIN-SUFFIX,simulmedia-apis.com #Smite Ads
   - DOMAIN-SUFFIX,asus.com #ASUS
   - DOMAIN-SUFFIX,xdaforums.com #XDA Forums
+  - DOMAIN-SUFFIX,steam-chat.com #Steam Chat
