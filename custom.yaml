@@ -203,3 +203,4 @@ payload:
   - DOMAIN-SUFFIX,asus.com #ASUS
   - DOMAIN-SUFFIX,xdaforums.com #XDA Forums
   - DOMAIN-SUFFIX,steam-chat.com #Steam Chat
+  - DOMAIN,store.ui.com.cn #Unifi China Store
