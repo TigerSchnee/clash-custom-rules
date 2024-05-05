@@ -206,3 +206,4 @@ payload:
   - DOMAIN,store.ui.com.cn #Unifi China Store
   - DOMAIN-SUFFIX,synology.com #Synology Global
   - DOMAIN-SUFFIX,redditspace.com #Reddit Chat
+  - DOMAIN-SUFFIX,openwrt.ai #OpenWrt Online Compose
