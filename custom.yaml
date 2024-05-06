@@ -207,3 +207,4 @@ payload:
   - DOMAIN-SUFFIX,synology.com #Synology Global
   - DOMAIN-SUFFIX,redditspace.com #Reddit Chat
   - DOMAIN-SUFFIX,openwrt.ai #OpenWrt Online Compose
+  - DOMAIN-SUFFIX,truenas.com #TrueNAS
