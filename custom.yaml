@@ -209,3 +209,4 @@ payload:
   - DOMAIN-SUFFIX,openwrt.ai #OpenWrt Online Compose
   - DOMAIN-SUFFIX,truenas.com #TrueNAS
   - DOMAIN-SUFFIX,chatgpt.com #ChatGPT
+  - DOMAIN-SUFFIX,duplicati.com
