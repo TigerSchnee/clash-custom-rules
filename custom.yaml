@@ -210,3 +210,4 @@ payload:
   - DOMAIN-SUFFIX,truenas.com #TrueNAS
   - DOMAIN-SUFFIX,chatgpt.com #ChatGPT
   - DOMAIN-SUFFIX,duplicati.com
+  - DOMAIN-SUFFIX,unraid.net
