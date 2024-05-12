@@ -211,3 +211,5 @@ payload:
   - DOMAIN-SUFFIX,chatgpt.com #ChatGPT
   - DOMAIN-SUFFIX,duplicati.com
   - DOMAIN-SUFFIX,unraid.net
+  - DOMAIN-SUFFIX,bitwarden.com #Bitwarden
+  - DOMAIN-SUFFIX,bitwarden.net #Bitwarden
