@@ -213,3 +213,4 @@ payload:
   - DOMAIN-SUFFIX,unraid.net
   - DOMAIN-SUFFIX,bitwarden.com #Bitwarden
   - DOMAIN-SUFFIX,bitwarden.net #Bitwarden
+  - DOMAIN-SUFFIX,linuxserver.io #lscr.io
