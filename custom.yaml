@@ -215,3 +215,4 @@ payload:
   - DOMAIN-SUFFIX,bitwarden.net #Bitwarden
   - DOMAIN-SUFFIX,linuxserver.io #lscr.io
   - DOMAIN-SUFFIX,protonvpn.com #ProtonVPN
+  - DOMAIN-SUFFIX,dmm.com #DMM
