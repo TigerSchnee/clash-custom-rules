@@ -216,3 +216,4 @@ payload:
   - DOMAIN-SUFFIX,linuxserver.io #lscr.io
   - DOMAIN-SUFFIX,protonvpn.com #ProtonVPN
   - DOMAIN-SUFFIX,yts.mx #YTS Movie Torrent
+  - DOMAIN-SUFFIX,jellyfin.org #Jellyfin
