@@ -217,3 +217,5 @@ payload:
   - DOMAIN-SUFFIX,protonvpn.com #ProtonVPN
   - DOMAIN-SUFFIX,yts.mx #YTS Movie Torrent
   - DOMAIN-SUFFIX,jellyfin.org #Jellyfin
+  - DOMAIN-SUFFIX,imdb.com #IMDB
+  - DOMAIN-SUFFIX,tmdb.org #TMDB
