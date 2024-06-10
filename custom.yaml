@@ -220,3 +220,4 @@ payload:
   - DOMAIN-SUFFIX,imdb.com #IMDB
   - DOMAIN-SUFFIX,tmdb.org #TMDB
   - DOMAIN-SUFFIX,opensubtitles.com #OpenSubtitles
+  - DOMAIN-SUFFIX,openwrt.org
