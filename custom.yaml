@@ -221,3 +221,4 @@ payload:
   - DOMAIN-SUFFIX,tmdb.org #TMDB
   - DOMAIN-SUFFIX,opensubtitles.com #OpenSubtitles
   - DOMAIN-SUFFIX,openwrt.org
+  - DOMAIN-SUFFIX,flcl.uk #Aslain WOT
