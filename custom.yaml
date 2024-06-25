@@ -223,3 +223,5 @@ payload:
   - DOMAIN-SUFFIX,openwrt.org
   - DOMAIN-SUFFIX,flcl.uk #Aslain WOT
   - DOMAIN-SUFFIX,skill4ltu.eu #skill4ltu WOT
+  - DOMAIN-SUFFIX,datadog.pool.ntp.org #OpenAI
+  - DOMAIN-SUFFIX,browser-intake-datadoghq.com #OpenAI
