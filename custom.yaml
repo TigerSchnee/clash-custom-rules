@@ -223,3 +223,4 @@ payload:
   - DOMAIN-SUFFIX,openwrt.org
   - DOMAIN-SUFFIX,flcl.uk #Aslain WOT
   - DOMAIN-SUFFIX,skill4ltu.eu #skill4ltu WOT
+  - DOMAIN,steamcloud-tyo.s3.dualstack.ap-northeast-1.amazonaws.com #Steam Cloud Sync
