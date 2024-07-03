@@ -224,3 +224,4 @@ payload:
   - DOMAIN-SUFFIX,flcl.uk #Aslain WOT
   - DOMAIN-SUFFIX,skill4ltu.eu #skill4ltu WOT
   - DOMAIN-KEYWORD,steamcloud #Steam Cloud Sync
+  - DOMAIN-SUFFIX,twitchcdn.net #Twitch CDN
