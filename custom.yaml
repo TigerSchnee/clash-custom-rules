@@ -69,7 +69,6 @@ payload:
   - DOMAIN-SUFFIX,hostbuf.com
   - DOMAIN-SUFFIX,artstation.com
   - DOMAIN-SUFFIX,ifixit.com
-  - DOMAIN-SUFFIX,ui.com
   - DOMAIN-SUFFIX,pcpartpicker.com
   - DOMAIN-SUFFIX,voiceattack.com
   - DOMAIN-SUFFIX,thrustmaster.com
