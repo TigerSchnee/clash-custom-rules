@@ -226,3 +226,4 @@ payload:
   - DOMAIN-SUFFIX,twitchcdn.net #Twitch CDN
   - DOMAIN-SUFFIX,ui.com #Unifi
   - DOMAIN-SUFFIX,home-assistant.io #Home Assistant
+  - DOMAIN-SUFFIX,broadcom.com #Broadcom/VMware
