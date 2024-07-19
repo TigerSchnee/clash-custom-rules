@@ -227,3 +227,4 @@ payload:
   - DOMAIN-SUFFIX,home-assistant.io #Home Assistant
   - DOMAIN-SUFFIX,broadcom.com #Broadcom/VMware
   - DOMAIN-SUFFIX,lttsote.com #LTT Store
+  - DOMAIN-SUFFIX,svc.ubnt.com #Ubiquiti UVC Stream
