@@ -228,3 +228,4 @@ payload:
   - DOMAIN-SUFFIX,broadcom.com #Broadcom/VMware
   - DOMAIN-SUFFIX,lttsote.com #LTT Store
   - DOMAIN-SUFFIX,svc.ubnt.com #Ubiquiti UVC Stream
+  - DOMAIN-SUFFIX,paoluz.com #跑路云
