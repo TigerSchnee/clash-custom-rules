@@ -1,0 +1,17 @@
+payload:
+  - DOMAIN,cdn.auth0.com
+  - DOMAIN-SUFFIX,openaicom.imgix.net
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,statsigapi.net
+  - DOMAIN-SUFFIX,featuregates.org
+  - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN-SUFFIX,identrust.com
+  - DOMAIN-SUFFIX,edgecompute.app
+  - DOMAIN-SUFFIX,compute-pipe.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,openai.com
+#  - DOMAIN-KEYWORD,openai
+#  - DOMAIN-KEYWORD,openaiapi
+#  - DOMAIN-KEYWORD,openaipublic
