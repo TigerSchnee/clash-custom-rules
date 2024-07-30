@@ -230,3 +230,4 @@ payload:
   - DOMAIN-SUFFIX,svc.ubnt.com #Ubiquiti UVC Stream
   - DOMAIN-SUFFIX,paoluz.com #跑路云
   - DOMAIN-SUFFIX,eveonline.com #EVE Online
+  - DOMAIN-SUFFIX,lime-technology #Unraid
