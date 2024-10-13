@@ -223,7 +223,7 @@ payload:
   - DOMAIN-SUFFIX,skill4ltu.eu #skill4ltu WOT
   - DOMAIN-KEYWORD,steamcloud #Steam Cloud Sync
   - DOMAIN-SUFFIX,twitchcdn.net #Twitch CDN
-  - DOMAIN-SUFFIX,ui.com #Unifi
+#  - DOMAIN-SUFFIX,ui.com #Unifi
   - DOMAIN-SUFFIX,home-assistant.io #Home Assistant
   - DOMAIN-SUFFIX,broadcom.com #Broadcom/VMware
   - DOMAIN-SUFFIX,lttsote.com #LTT Store
