@@ -1,2 +1,3 @@
 payload:
-  - DOMAIN,objects.robertsspaceindustries.com
+  - DOMAIN,objects.robertsspaceindustries.com #RSI
+  - DOMAIN-SUFFIX,steamcontent.com #Steam Download
