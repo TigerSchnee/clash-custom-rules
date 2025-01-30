@@ -232,3 +232,4 @@ payload:
   - DOMAIN-SUFFIX,lime-technology.com #Unraid
   - DOMAIN-SUFFIX,akinator.com #Akinator
   - DOMAIN-SUFFIX,wemod.com #WeMod
+  - DOMAIN-SUFFIX,xsplit.com #XSplit
