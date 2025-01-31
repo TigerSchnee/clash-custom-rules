@@ -2,4 +2,4 @@ payload:
   - DOMAIN,objects.robertsspaceindustries.com #RSI
   - DOMAIN-SUFFIX,steamcontent.com #Steam Download
   - DOMAIN-SUFFIX,chaster.app #Chaster
-  #- DOMAIN-SUFFIX,xspl.it #XSplit
+  - DOMAIN,wanip4.unraid.net #Unraid Connect WAN IP Check
