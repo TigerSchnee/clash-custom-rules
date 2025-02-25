@@ -234,3 +234,4 @@ payload:
   - DOMAIN-SUFFIX,wemod.com #WeMod
   - DOMAIN-SUFFIX,xsplit.com #XSplit
   - DOMAIN-SUFFIX,bt4gprx.com #BT4G
+  - DOMAIN-SUFFIX,ollama.com #Ollama
