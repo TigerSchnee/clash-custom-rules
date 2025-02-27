@@ -236,3 +236,4 @@ payload:
   - DOMAIN-SUFFIX,bt4gprx.com #BT4G
   - DOMAIN-SUFFIX,ollama.com #Ollama
   - DOMAIN-SUFFIX,cults3d.com #Cults 3D
+  - DOMAIN-SUFFIX,suno.com #Suno AI
