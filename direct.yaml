@@ -3,3 +3,5 @@ payload:
   - DOMAIN-SUFFIX,steamcontent.com #Steam Download
   - DOMAIN-SUFFIX,chaster.app #Chaster
   - DOMAIN,wanip4.unraid.net #Unraid Connect WAN IP Check
+  - DOMAIN-SUFFIX,gog-statics.com #GOG
+  - DOMAIN-SUFFIX,gog.com #GOG
