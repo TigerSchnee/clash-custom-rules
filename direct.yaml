@@ -5,4 +5,4 @@ payload:
   - DOMAIN,wanip4.unraid.net #Unraid Connect WAN IP Check
   - DOMAIN-SUFFIX,gog-statics.com #GOG
   - DOMAIN-SUFFIX,gog.com #GOG
-  - DOMAIN-SUFFIX,teamviewer.com #TeamViewer
+#  - DOMAIN-SUFFIX,teamviewer.com #TeamViewer
