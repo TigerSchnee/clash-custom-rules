@@ -225,7 +225,7 @@ payload:
 #  - DOMAIN-SUFFIX,ui.com #Unifi
   - DOMAIN-SUFFIX,home-assistant.io #Home Assistant
   - DOMAIN-SUFFIX,broadcom.com #Broadcom/VMware
-  - DOMAIN-SUFFIX,lttsote.com #LTT Store
+  - DOMAIN-SUFFIX,lttstore.com #LTT Store
 #  - DOMAIN-SUFFIX,svc.ubnt.com #Ubiquiti UVC Stream
   - DOMAIN-SUFFIX,paoluz.com #跑路云
   - DOMAIN-SUFFIX,eveonline.com #EVE Online
