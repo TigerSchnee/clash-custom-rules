@@ -240,3 +240,4 @@ payload:
   - DOMAIN,api.zaonce.net #Elite Dangerous
   - DOMAIN,taskofdeity.netify.app #欲神的任务
   - IP-CIDR,203.214.111.0/24 #欲神的任务
+  - IP-CIDR,211.224.140.0/24 #欲神的任务
