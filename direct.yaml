@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,gog-statics.com #GOG
   - DOMAIN-SUFFIX,gog.com #GOG
 #  - DOMAIN-SUFFIX,teamviewer.com #TeamViewer
+  - DOMAIN,dl.google.com #Google Download
