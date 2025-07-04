@@ -241,3 +241,4 @@ payload:
   - DOMAIN,taskofdeity.netify.app #欲神的任务
   - DOMAIN-SUFFIX,ign.com #IGN
   - DOMAIN-SUFFIX,ignimgs.com #IGN Images
+  - DOMAIN,dl.google.com #Google Download
