@@ -242,3 +242,4 @@ payload:
   - DOMAIN-SUFFIX,ign.com #IGN
   - DOMAIN-SUFFIX,ignimgs.com #IGN Images
   - DOMAIN,dl.google.com #Google Download
+  - DOMAIN-SUFFIX,resplendence.com #WhoCrashed
