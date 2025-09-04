@@ -244,3 +244,4 @@ payload:
   - DOMAIN,dl.google.com #Google Download
   - DOMAIN-SUFFIX,resplendence.com #WhoCrashed
   - DOMAIN-SUFFIX,codeproject.com
+  - DOMAIN-SUFFIX,wgmods.net #WarGaming Mods
