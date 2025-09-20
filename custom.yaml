@@ -245,3 +245,4 @@ payload:
   - DOMAIN-SUFFIX,resplendence.com #WhoCrashed
   - DOMAIN-SUFFIX,codeproject.com
   - DOMAIN-SUFFIX,wgmods.net #WarGaming Mods
+  - DOMAIN,cdn-cf-ae.patchkit.net #HCS Hub
