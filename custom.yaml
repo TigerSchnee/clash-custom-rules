@@ -248,3 +248,6 @@ payload:
   - DOMAIN,cdn-cf-ae.patchkit.net #HCS Hub
   - DOMAIN-SUFFIX,googleapis.cn #Google Play Store Download
   - DOMAIN-SUFFIX,appsflyersdk.com #Nikke
+  - DOMAIN-SUFFIX,listdl.com #Nikke
+  - DOMAIN-SUFFIX,anticheatexpert.com #Nikke
+  - DOMAIN-SUFFIX,centauriglobal.com #Nikke
