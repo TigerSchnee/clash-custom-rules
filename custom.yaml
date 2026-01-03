@@ -253,3 +253,4 @@ payload:
   - DOMAIN-SUFFIX,centauriglobal.com #Nikke
   - DOMAIN-SUFFIX,bd2.pmang.cloud #Brown Dust 2
   - DOMAIN-SUFFIX,diskanalyzer.com #WizTree
+  - IP-CIDR,74.114.119.0/24 #Microsoft Store
