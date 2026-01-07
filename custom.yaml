@@ -255,3 +255,4 @@ payload:
   - DOMAIN-SUFFIX,diskanalyzer.com #WizTree
   - IP-CIDR,74.114.119.0/24 #Microsoft Store
   - DOMAIN-SUFFIX,tgstat.com
+  - DOMAIN-SUFFIX,tgcng.com
