@@ -254,5 +254,6 @@ payload:
   - DOMAIN-SUFFIX,bd2.pmang.cloud #Brown Dust 2
   - DOMAIN-SUFFIX,diskanalyzer.com #WizTree
   - IP-CIDR,74.114.119.0/24 #Microsoft Store
-  - DOMAIN-SUFFIX,tgstat.com
-  - DOMAIN-SUFFIX,tgcng.com
+  - DOMAIN-SUFFIX,tgstat.com #Telegram channels and groups catalog
+  - DOMAIN-SUFFIX,tgcng.com #Telegram 中文群
+  - DOMAIN-SUFFIX,16personalities.com #Personality Test
