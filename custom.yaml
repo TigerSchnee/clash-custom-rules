@@ -257,3 +257,4 @@ payload:
   - DOMAIN-SUFFIX,tgstat.com #Telegram channels and groups catalog
   - DOMAIN-SUFFIX,tgcng.com #Telegram 中文群
   - DOMAIN-SUFFIX,16personalities.com #Personality Test
+  - DOMAIN-SUFFIX,nextcloud.com #Nextcloud
