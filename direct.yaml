@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,gog.com #GOG
 #  - DOMAIN-SUFFIX,teamviewer.com #TeamViewer
   - DOMAIN,checkout.steampowered.com #Steam Checkout
+  - DOMAIN,store.steampowered.com #Steam Store
