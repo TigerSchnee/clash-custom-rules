@@ -1,0 +1,250 @@
+payload:
+  - '+.youtube.com'
+  - '+.mapgenie.io'
+  - '+.pagespeed-mod.com'
+  - '+.lostarkive.com'
+  - '+.nexusmods.com'
+  - '+.cyberpunk.net'
+  - 'cloudstorage.gog.com'
+  - '+.corsair.com'
+  - '+.gameglass.gg'
+  - '+.erkul.games'
+  - '+.v2rayssr.com'
+  - '+.speedtest.net'
+  - '+.steamcommunity.com'
+  - '+.steampowered.com'
+  - '+.apkmirror.com'
+  - '+.taptap.io'
+  - '+.taplb.com'
+  - '+.tap.io'
+  - 'files.update.tech.tobii.com'
+  - 'h5.g123.jp'
+  - '+.onemt.co'
+  - '+.menaapp.net'
+  - 'tap-snow-hk.cn-hongkong.log.aliyuncs.com'
+  - 'tap-android-logs-hk.cn-hongkong.log.aliyuncs.com'
+  - 'hk.sapi.taptap.com'
+  - '+.tapimg.net'
+  - '+.patreonusercontent.com'
+  - '+.deviantart.net'
+  - '+.patreon.com'
+  - '+.qoo-app.com'
+  - '+.stripe.com'
+  - '+.shiftupcorp.com'
+  - '+.alchemystars.jp'
+  - '+.alchemystars.com'
+  - '+.8591.com.tw'
+  - '+.shenmatk.com'
+  - '+.nexoncdn.co.kr'
+  - '+.gaming.amazon.com'
+  - '+.elderscrollsonline.com'
+  - '+.amazon.ca'
+  - '+.amazon.com'
+  - '+.v2raytech.com'
+  - '+.bwh88.net'
+  - '+.magiskmanager.com'
+  - '+.goo.gl'
+  - '+.live.com'
+  - '+.naeu.playblackdesert.com'
+  - '+.answers.microsoft.com'
+  - '+.displayfusion.com'
+  - '+.cheatengine.org'
+  - '+.binaryfortressdownloads.com'
+  - '+.privateinternetaccess.com'
+  - '+.233v2.com'
+  - '+.233blog.com'
+  - '+.hijk.art'
+  - '+.alcasthq.com'
+  - '+.fantia.jp'
+  - '+.karmakoin.com'
+  - '+.gleam.io'
+  - '+.xda-developers.com'
+  - '+.nutaku.net'
+  - '+.pximg.net'
+  - '+.fanbox.cc'
+  - '+.redd.it'
+  - '+.v2fly.org'
+  - '+.hostbuf.com'
+  - '+.artstation.com'
+  - '+.ifixit.com'
+  - '+.pcpartpicker.com'
+  - '+.voiceattack.com'
+  - '+.thrustmaster.com'
+  - '+.virpil-controls.eu'
+  - '+.vkbcontrollers.com'
+  - '+.streamable.com'
+  - '+.game.as.angel'
+  - '+.bignox.com'
+  - '+.tinyurl.com'
+  - '+.ibuypower.com'
+  - '+.userbenchmark.com'
+  - '+.corsair.com'
+  - '+.smartdeploy.com'
+  - '+.paypal.com'
+  - '+.paypalobjects.com'
+  - '+.pastebin.com'
+  - '+.repo.flr.one'
+  - '+.pearlcdn.com'
+  - '+.pearlabyss.com'
+  - '+.smitefire.com'
+  - '+.smite.guru'
+  - '+.hoyolab.com'
+  - '+.r6roulette.com'
+  - '+.op.gg'
+  - '+.download.pso2'
+  - '+.r6roulette.com'
+  - '+.robertsspaceindustries.com'
+  - '+.gaijin.net'
+  - '+.star-conflict.com'
+  - '+.aslain.com'
+  - '+.i.jpg.dog'
+  - '+.aslain.harmless.hu'
+  - '+.aslain.legionriders.club'
+  - '+.modp.wgcdn.co'
+  - '+.boundhub.com'
+  - '+.bdsmactually.com'
+  - '+.bondageobserver.com'
+  - '+.qoo-static.com'
+  - '+.qoo-img.com'
+  - '+.ridge.com'
+  - '+.nvidia.com'
+  - '+.nvidia.cn'
+  - '+.sponsor.ajay.app'
+  - '+.nikke-kr.com'
+  - '+.guildwars2.com'
+  - '+.fetisale.com'
+  - '+.greasyfork.org'
+  - '+.riseoferos.com'
+  - '+.ero-labs.com'
+  - '+.tamrieltradecentre.com'
+  - '+.esologs.com'
+  - '+.squarespace.com'
+  - '+.squarespace-cdn.com'
+  - '+.resources.download.minecraft.net'
+  - '+.stryder-it.de'
+  - 'navbar.blizzard.com'
+  - '+.nexon.io'
+  - '+.overwolf.com'
+  - '+.tracker.gg'
+  - '+.xsolla.com'
+  - '+.prydwen.gg'
+  - '+.blue-protocol.cn'
+  - '+.szcll.com'
+  - '+.wargaming.net'
+  - '+.wgcdn.co'
+  - '+.gcdn.co'
+  - '+.worldofwarships.com'
+  - '+.worldoftanks.com'
+  - '+.nexus-cdn.com'
+  - '+.xboxservices.com'
+  - '+.xboxlive.com'
+  - '+.gamepass.com'
+  - '+.gamerant.com'
+  - '+.nikke.gg'
+  - '+.game-hub.tobii.com'
+  - '+.static8.ubi.com'
+  - '+.cdn.ubisoft.com'
+  - '+.bingapis.com'
+  - 'mp.microsoft.com'
+  - 'oneclient.sfx.ms'
+  - 'self.events.data.microsoft.com'
+  - '+.gnome-look.org'
+  - '+.flathub.org'
+  - 'cdn.fwupd.org'
+  - '+.spacedesk.net'
+  - 'na.fleetlogd.com'
+  - '+.intlgame.com'
+  - '+.jupiterlauncher.com'
+  - '+.gadgetversus.com'
+  - '+.heroicgameslauncher.com'
+  - '+.versus.com'
+  - '+.cpubenchmark.net'
+  - '+.docker.com'
+  - '+.laramusic.tk'
+  - '+.steamos.cloud'
+  - '+.ip2cidr.com'
+  - 'free.nchc.org.tw'
+  - '+.truekex.com'
+  - '+.nexon.com'
+  - '+.nikke-en.com'
+  - '+.videopress.com'
+  - '+.analog.com'
+  - '+.forum.gamer.com.tw'
+  - '+.upc.ubisoft.com'
+  - '+.github.io'
+  - '+.githubusercontent.com'
+  - '+.battle.net'
+  - '+.cdn.blz-contentstack.com'
+  - '+.rustdesk.com'
+  - '+.japaneast.cloudapp.azure.com'
+# Spotify
+  - '+.pscdn.co'
+  - '+.scdn.co'
+  - '+.spoti.fi'
+  - '+.spotify.com'
+  - '+.spotifycdn.net'
+#
+  - '+.tiktok.com'
+  - '+.bdsmstreak.com'
+  - '+.mmoui.com'
+  - '+.paradox-interactive.com'
+  - '+.fandom.com'
+  - '+.voidtools.com' #Everything
+  - '+.simulmedia-apis.com' #Smite Ads
+  - '+.asus.com' #ASUS
+  - '+.xdaforums.com' #XDA Forums
+  - '+.steam-chat.com' #Steam Chat
+  - 'store.ui.com.cn' #Unifi China Store
+  - '+.synology.com' #Synology Global
+  - '+.redditspace.com' #Reddit Chat
+  - '+.openwrt.ai' #OpenWrt Online Compose
+  - '+.truenas.com' #TrueNAS
+  - '+.chatgpt.com' #ChatGPT
+  - '+.duplicati.com'
+  - '+.unraid.net'
+  - '+.bitwarden.com' #Bitwarden
+  - '+.bitwarden.net' #Bitwarden
+  - '+.linuxserver.io' #lscr.io
+  - '+.protonvpn.com' #ProtonVPN
+  - '+.yts.mx' #YTS Movie Torrent
+  - '+.jellyfin.org' #Jellyfin
+  - '+.imdb.com' #IMDB
+  - '+.tmdb.org' #TMDB
+  - '+.opensubtitles.com' #OpenSubtitles
+  - '+.openwrt.org'
+  - '+.flcl.uk' #Aslain WOT
+  - '+.skill4ltu.eu' #skill4ltu WOT
+  - '+.twitchcdn.net' #Twitch CDN
+  - '+.home-assistant.io' #Home Assistant
+  - '+.broadcom.com' #Broadcom/VMware
+  - '+.lttstore.com' #LTT Store
+  - '+.paoluz.com' #跑路云
+  - '+.eveonline.com' #EVE Online
+  - '+.lime-technology.com' #Unraid
+  - '+.akinator.com' #Akinator
+  - '+.wemod.com' #WeMod
+  - '+.xsplit.com' #XSplit
+  - '+.bt4gprx.com' #BT4G
+  - '+.ollama.com' #Ollama
+  - '+.cults3d.com' #Cults 3D
+  - '+.suno.com' #Suno AI
+  - 'api.zaonce.net' #Elite Dangerous
+  - 'taskofdeity.netify.app' #欲神的任务
+  - '+.ign.com' #IGN
+  - '+.ignimgs.com' #IGN Images
+  - 'dl.google.com' #Google Download
+  - '+.resplendence.com' #WhoCrashed
+  - '+.codeproject.com'
+  - '+.wgmods.net' #WarGaming Mods
+  - 'cdn-cf-ae.patchkit.net' #HCS Hub
+  - '+.googleapis.cn' #Google Play Store Download
+  - '+.appsflyersdk.com' #Nikke
+  - '+.listdl.com' #Nikke
+  - '+.anticheatexpert.com' #Nikke
+  - '+.centauriglobal.com' #Nikke
+  - '+.bd2.pmang.cloud' #Brown Dust 2
+  - '+.diskanalyzer.com' #WizTree
+  - '+.tgstat.com' #Telegram channels and groups catalog
+  - '+.tgcng.com' #Telegram 中文群
+  - '+.16personalities.com' #Personality Test
+  - '+.nextcloud.com' #Nextcloud

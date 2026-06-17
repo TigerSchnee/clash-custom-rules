@@ -1,0 +1,15 @@
+payload:
+  - 'objects.robertsspaceindustries.com' #RSI
+  - '+.steamcontent.com' #Steam Download
+  - '+.chaster.app' #Chaster
+  - 'wanip4.unraid.net' #Unraid Connect WAN IP Check
+#GOG
+  - '+.gog-statics.com'
+  - '+.gog.com'
+#
+  - 'checkout.steampowered.com' #Steam Checkout
+  - 'store.steampowered.com' #Steam Checkout
+#Microsoft Connectivity
+  - 'www.msftncsi.com'
+  - 'ipv6.msftncsi.com'
+#
