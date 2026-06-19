@@ -8,7 +8,7 @@ payload:
   - '+.gog.com'
 #
   - 'checkout.steampowered.com' #Steam Checkout
-  - 'store.steampowered.com' #Steam Checkout
+#  - 'store.steampowered.com' #Steam Checkout
 #Microsoft Connectivity
   - 'www.msftncsi.com'
   - 'ipv6.msftncsi.com'
