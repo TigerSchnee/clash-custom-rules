@@ -248,3 +248,4 @@ payload:
   - '+.tgcng.com' #Telegram 中文群
   - '+.16personalities.com' #Personality Test
   - '+.nextcloud.com' #Nextcloud
+  - '+.ripper.store'
