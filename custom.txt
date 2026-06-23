@@ -249,3 +249,4 @@ payload:
   - '+.16personalities.com' #Personality Test
   - '+.nextcloud.com' #Nextcloud
   - '+.ripper.store'
+  - '+.secondlife.com'
