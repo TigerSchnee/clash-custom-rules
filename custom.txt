@@ -246,6 +246,8 @@ payload:
   - '+.diskanalyzer.com' #WizTree
   - '+.tgstat.com' #Telegram channels and groups catalog
   - '+.tgcng.com' #Telegram 中文群
-  - '+.16personalities.com' #Personality Test
-  - '+.nextcloud.com' #Nextcloud
+  - '+.16personalities.com'
+  - '+.nextcloud.com'
+  - '+.ripper.store'
+  - '+.secondlife.com'
   - '+.bing.com'
