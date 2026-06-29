@@ -250,4 +250,3 @@ payload:
   - '+.nextcloud.com'
   - '+.ripper.store'
   - '+.secondlife.com'
-  - '+.bing.com'
