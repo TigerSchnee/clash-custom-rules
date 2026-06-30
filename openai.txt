@@ -15,7 +15,6 @@ payload:
   - '+.openai.com'
   - '+.client-api.arkoselabs.com'
   - '+.openaiapi-site.azureedge.net'
-  - '+.sentry.io'
   - '+.sora.com'
   - '+.browser-intake-datadoghq.com'
 #Claude
