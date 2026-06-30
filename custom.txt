@@ -251,3 +251,4 @@ payload:
   - '+.ripper.store'
   - '+.secondlife.com'
   - '+.gamebanana.com'
+  - '+.jichangtuijian.com'
