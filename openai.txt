@@ -13,3 +13,17 @@ payload:
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
   - '+.openai.com'
+  - '+.client-api.arkoselabs.com'
+  - '+.openaiapi-site.azureedge.net'
+  - '+.sentry.io'
+  - '+.sora.com'
+  - '+.browser-intake-datadoghq.com'
+#Claude
+  - '+.anthropic.com'
+  - '+.claude.ai'
+  - '+.usefathom.com'
+  - '+.claude.com'
+  - '+.claudeusercontent.com'
+#Grok
+  - '+.x.ai'
+  - '+.grok.com'
