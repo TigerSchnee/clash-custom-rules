@@ -252,3 +252,4 @@ payload:
   - '+.secondlife.com'
   - '+.gamebanana.com'
   - '+.jichangtuijian.com'
+  - '+.browndust2.com'
