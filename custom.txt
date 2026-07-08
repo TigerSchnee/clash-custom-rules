@@ -254,5 +254,3 @@ payload:
   - '+.browndust2.com'
 #Torrent Sites
   - '+.yts.mx'
-  - '+.529075.xyz'
-  - '+.529076.xyz'
