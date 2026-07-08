@@ -254,3 +254,6 @@ payload:
   - '+.browndust2.com'
 #Torrent Sites
   - '+.yts.mx'
+  - '+.13mag.net'
+  - '+.16mag.net'
+  - '+.limetorrents.fun'
