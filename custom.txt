@@ -257,3 +257,4 @@ payload:
   - '+.13mag.net'
   - '+.16mag.net'
   - '+.limetorrents.fun'
+  - '+.comicat.org'
