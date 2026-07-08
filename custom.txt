@@ -259,3 +259,4 @@ payload:
   - '+.limetorrents.fun'
   - '+.comicat.org'
   - '+.crackingpatching.com'
+  - '+.mnmnmnmnmn.com'
