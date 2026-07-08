@@ -206,7 +206,6 @@ payload:
   - '+.bitwarden.net' #Bitwarden
   - '+.linuxserver.io' #lscr.io
   - '+.protonvpn.com' #ProtonVPN
-  - '+.yts.mx' #YTS Movie Torrent
   - '+.jellyfin.org' #Jellyfin
   - '+.imdb.com' #IMDB
   - '+.tmdb.org' #TMDB
@@ -253,3 +252,7 @@ payload:
   - '+.gamebanana.com'
   - '+.jichangtuijian.com'
   - '+.browndust2.com'
+#Torrent Sites
+  - '+.yts.mx'
+  - '+.529075.xyz'
+  - '+.529076.xyz'
