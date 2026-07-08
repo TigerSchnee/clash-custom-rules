@@ -258,3 +258,4 @@ payload:
   - '+.16mag.net'
   - '+.limetorrents.fun'
   - '+.comicat.org'
+  - '+.crackingpatching.com'
