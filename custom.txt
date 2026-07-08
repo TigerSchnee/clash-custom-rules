@@ -244,7 +244,7 @@ payload:
   - '+.bd2.pmang.cloud' #Brown Dust 2
   - '+.diskanalyzer.com' #WizTree
   - '+.tgstat.com' #Telegram channels and groups catalog
-  - '+.tgcng.com' #Telegram 中文群
+  - '+.tgcng.com' #Telegram中文群
   - '+.16personalities.com'
   - '+.nextcloud.com'
   - '+.ripper.store'
