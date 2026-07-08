@@ -26,3 +26,6 @@ payload:
 #Grok
   - '+.x.ai'
   - '+.grok.com'
+#Torrent Sites
+  - '+.529075.xyz'
+  - '+.529076.xyz'
