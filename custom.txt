@@ -253,6 +253,7 @@ payload:
   - '+.jichangtuijian.com'
   - '+.browndust2.com'
   - '+.servarr.com'
+  - '+.assrt.net' #射手网
 #Torrent Sites
   - '+.yts.mx'
   - '+.13mag.net'
