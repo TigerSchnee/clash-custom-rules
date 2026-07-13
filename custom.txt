@@ -254,6 +254,7 @@ payload:
   - '+.browndust2.com'
   - '+.servarr.com'
   - '+.assrt.net' #射手网
+  - '+.cdnaspa.club' #JMComic
 #Torrent Sites
   - '+.yts.mx'
   - '+.13mag.net'
