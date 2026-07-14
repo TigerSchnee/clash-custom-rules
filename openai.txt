@@ -1,4 +1,5 @@
 payload:
+#ChatGPT
   - '+.chatgpt.com'
   - 'cdn.auth0.com'
   - '+.openaicom.imgix.net'
@@ -30,3 +31,5 @@ payload:
   - '+.529075.xyz'
   - '+.529076.xyz'
   - '+.torrentcore.xyz'
+#Network Test
+  - '+.bgp.tools'
