@@ -267,3 +267,4 @@ payload:
   - '+.mnmnmnmnmn.com'
   - '+.kisssub.org'
   - '+.25img.com'
+  - '+.u3c3.com'
