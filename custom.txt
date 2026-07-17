@@ -254,6 +254,7 @@ payload:
   - '+.browndust2.com'
   - '+.servarr.com'
   - '+.assrt.net' #射手网
+  - '+.blablalink.com' #Nikke
 #JMComic
   - '+.cdnaspa.vip'
   - '+.cdnaspa.club'
