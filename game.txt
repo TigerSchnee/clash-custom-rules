@@ -2,6 +2,7 @@ payload:
 #Brown Dust2
   - '+.browndust2.com'
   - '+.bd2.pmang.cloud'
+  - 'bd2-cdn.akamaized.net'
 #Nikke
   - '+.nikke-kr.com'
   - '+.appsflyersdk.com' #Nikke
