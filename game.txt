@@ -1,0 +1,11 @@
+payload:
+#Brown Dust2
+  - '+.browndust2.com'
+  - '+.bd2.pmang.cloud'
+#Nikke
+  - '+.nikke-kr.com'
+  - '+.appsflyersdk.com' #Nikke
+  - '+.listdl.com' #Nikke
+  - '+.anticheatexpert.com' #Nikke
+  - '+.centauriglobal.com' #Nikke
+  - '+.blablalink.com' #Nikke
