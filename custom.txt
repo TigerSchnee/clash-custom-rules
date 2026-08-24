@@ -110,7 +110,6 @@ payload:
   - '+.nvidia.com'
   - '+.nvidia.cn'
   - '+.sponsor.ajay.app'
-  - '+.nikke-kr.com'
   - '+.guildwars2.com'
   - '+.fetisale.com'
   - '+.greasyfork.org'
@@ -237,11 +236,6 @@ payload:
   - '+.wgmods.net' #WarGaming Mods
   - 'cdn-cf-ae.patchkit.net' #HCS Hub
   - '+.googleapis.cn' #Google Play Store Download
-  - '+.appsflyersdk.com' #Nikke
-  - '+.listdl.com' #Nikke
-  - '+.anticheatexpert.com' #Nikke
-  - '+.centauriglobal.com' #Nikke
-  - '+.bd2.pmang.cloud' #Brown Dust 2
   - '+.diskanalyzer.com' #WizTree
   - '+.tgstat.com' #Telegram channels and groups catalog
   - '+.tgcng.com' #Telegram中文群
@@ -251,10 +245,8 @@ payload:
   - '+.secondlife.com'
   - '+.gamebanana.com'
   - '+.jichangtuijian.com'
-  - '+.browndust2.com'
   - '+.servarr.com'
   - '+.assrt.net' #射手网
-  - '+.blablalink.com' #Nikke
 #JMComic
   - '+.cdnaspa.vip'
   - '+.cdnaspa.club'
