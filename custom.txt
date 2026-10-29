@@ -247,6 +247,7 @@ payload:
   - '+.jichangtuijian.com'
   - '+.servarr.com'
   - '+.assrt.net' #射手网
+  - '+.kxcdn.com' #WizTree
 #JMComic
   - '+.cdnaspa.vip'
   - '+.cdnaspa.club'
